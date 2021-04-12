@@ -11,20 +11,14 @@ using System.Windows.Forms;
 using System.Xml;
 using DatabaseOfGrantsQuarterlyEmail.Properties;
 using GrantsIdentification;
-using Microsoft.VisualBasic;
 
-namespace DatabaseOfGrantsEmail
+namespace DatabaseOfGrantsQuarterlyEmail
 {
     public partial class frmMain : Form
     {
         public frmMain()
         {
             InitializeComponent();
-        }
-
-        private void InitializeComponent()
-        {
-            throw new NotImplementedException();
         }
 
         // button1 used for testing, added SendEmail function during testing
@@ -94,5 +88,6 @@ namespace DatabaseOfGrantsEmail
             }
 
         }
+
     }
 }

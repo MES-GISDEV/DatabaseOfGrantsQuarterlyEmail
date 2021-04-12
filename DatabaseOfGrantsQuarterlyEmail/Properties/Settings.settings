@@ -1,7 +1,15 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DatabaseOfGrantsQuarterlyEmail.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SMTPClient" Type="System.String" Scope="User">
+      <Value Profile="(Default)">o365-exchange.menv.com</Value>
+    </Setting>
+    <Setting Name="MyConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bh1rM/242zgwBkDIvkChDOt/JoqpuDOnAzEsty+ATv++yqny8UFAx2zLNCkKCy33K072yLW3SomqauPriN/Rxonbx3YS0vglnJBIH/dc4hnAGgSEnbmSzHRDJxohhFf2</Value>
+    </Setting>
+    <Setting Name="MyProduction" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bh1rM/242zgwBkDIvkChDIJFvsWqS8xwAzEsty+ATv++yqny8UFAx2zLNCkKCy33qmrj64jf0caJ28d2EtL4JZyQSB/3XOIZwBoEhJ25ksx0QycaIYRX9g==</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>

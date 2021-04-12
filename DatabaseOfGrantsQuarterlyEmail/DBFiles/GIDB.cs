@@ -9,7 +9,7 @@ using SimpleEncryption;
 using Microsoft.VisualBasic;
 using System.Security.Cryptography;
 using System.Text;
-using DatabaseOfGrantsEmail.Properties;
+using DatabaseOfGrantsQuarterlyEmail.Properties;
 
 namespace GrantsIdentification
 {
